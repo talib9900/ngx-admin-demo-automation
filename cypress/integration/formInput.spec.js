@@ -31,7 +31,7 @@ describe( 'formInput', () => {
         forminput.dangerCheckbox().find('.custom-checkbox').click()
         forminput.checkBox1().find('.custom-checkbox').click()
         forminput.checkBox2().find('.custom-checkbox').click()
-        forminput.radio3().find('.inner-circle').click()
+        //forminput.radio3().find('.inner-circle').click()
 
     })
 })
