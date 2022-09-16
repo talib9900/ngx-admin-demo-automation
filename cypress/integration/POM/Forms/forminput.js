@@ -132,16 +132,5 @@ class formInput {
     {
         return cy.get('[data-test-id="Radio3"]')
     }
-    
-
-
-
-
-
-
-
-
-
-
 }
 export default new formInput ()
