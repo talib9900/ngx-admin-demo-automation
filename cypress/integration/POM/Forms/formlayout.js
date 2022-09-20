@@ -120,6 +120,7 @@ horizontalPassword()
 {
     return cy.get('[data-test-id = "horizontalPassword"]')
 }
+
 horizontalRemember()
 {
     return cy.get('[data-test-id = "RememberMe"]')
@@ -129,9 +130,6 @@ horizontalSubmit()
 {
     return cy.get('[data-test-id = "Horizontalsubmit"]')
 }
-
-
-
 }
 
 export default new formlayout ()
